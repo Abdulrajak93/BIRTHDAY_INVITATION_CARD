@@ -4,4 +4,4 @@ IF YOU REFRESH THE BROWSER THE IMAGE WILL CHANGE.
 
 # BIRTHDAY_INVITATION_CARD
 
-![invitation_card](https://github.com/Abdulrajak93/BIRTHDAY_INVITATION_CARD/assets/142439403/5e72c9e7-16fa-49e6-a6fd-047fc3fed535)
+![Birthday Invitation](https://github.com/Abdulrajak93/BIRTHDAY_INVITATION_CARD/assets/142439403/835ab852-986d-4055-a962-dfeb77205a84)
